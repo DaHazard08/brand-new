@@ -1,4 +1,3 @@
 # brand-new
-I like SQL and C#.
-Braves fan in training.  
+Nothing to see here.
 Maybe everything really is everything.
